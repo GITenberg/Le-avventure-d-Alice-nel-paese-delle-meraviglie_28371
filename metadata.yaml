@@ -1,0 +1,48 @@
+_repo: Le-avventure-d-Alice-nel-paese-delle-meraviglie_28371
+_version: 0.1.0
+alternative_title: Alice's adventures in Wonderland. Italian
+contributor:
+  illustrator:
+    agent_name: Tenniel, John
+    alias: Tenniel, Sir John
+    birthdate: 1820
+    deathdate: 1914
+    gutenberg_agent_id: '74'
+    url: http://www.gutenberg.org/2009/agents/74
+    wikipedia: http://en.wikipedia.org/wiki/John_Tenniel
+  translator:
+    agent_name: Pietrocòla-Rossetti, T. (Teodorico)
+    aliases:
+    - Pietrocola-Rossetti, T. (Teodorico)
+    - Pietrocòla-Rossetti, Teodorico
+    gutenberg_agent_id: '33299'
+    url: http://www.gutenberg.org/2009/agents/33299
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: ''
+gutenberg_bookshelf: IT Letteratura per ragazzi
+gutenberg_issued: '2009-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28371'
+  lccn: '44020342'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+- !lcc 'PR'
+title: Le avventure d'Alice nel paese delle meraviglie
+url: http://www.gutenberg.org/ebooks/28371
